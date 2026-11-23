@@ -1,4 +1,4 @@
-# Latihan GUI Java - Kalkulator Sederhana
+# Latihan GUI Java - Kalkulator Imut Zasqia088
 
 Latihan eksplorasi materi Graphical User Interface (GUI) pada Java menggunakan Swing.
 
@@ -24,12 +24,7 @@ Mengatur posisi komponen di dalam container.
 5. Event Listener: `ActionListener`
 Penghubung antara aksi user dan program. Setiap tombol diberi `addActionListener`, lalu method `actionPerformed` di-override. Kode di dalamnya jalan saat tombol diklik, misalnya mengambil angka dari kolom, menghitung, dan menampilkan hasil. Kalau input bukan angka, muncul pesan peringatan lewat `JOptionPane`.
 
-Cara Menjalankan
-
-```
+Cara Menjalankan <3
 javac Kalkulator.java
 java Kalkulator
-```
-
-Screenshot <3
 
