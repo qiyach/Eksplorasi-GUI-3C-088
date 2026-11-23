@@ -25,6 +25,7 @@ Mengatur posisi komponen di dalam container.
 Penghubung antara aksi user dan program. Setiap tombol diberi `addActionListener`, lalu method `actionPerformed` di-override. Kode di dalamnya jalan saat tombol diklik, misalnya mengambil angka dari kolom, menghitung, dan menampilkan hasil. Kalau input bukan angka, muncul pesan peringatan lewat `JOptionPane`.
 
 Cara Menjalankan <3
+
 javac Kalkulator.java
 java Kalkulator
 
