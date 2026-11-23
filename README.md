@@ -32,5 +32,8 @@ java Kalkulator
 
 Screenshot Kalkulator Imut Zasqia088 <3
 
-<img width="451" height="315" alt="Screenshot Kalkulator Imut Zasqia088" src="https://github.com/user-attachments/assets/da902807-3b6f-4d84-814b-d73663d123c4" />
+<img width="453" height="316" alt="Screenshot 2026-11-24 065835" src="https://github.com/user-attachments/assets/7117a36d-9086-49d7-8f09-dc49cad24a4e" />
+
+<img width="451" height="313" alt="Screenshot Kalkulator Imut Zasqia088" src="https://github.com/user-attachments/assets/fdd2c987-d598-436d-aa4b-4109bc8e0af0" />
+
 
