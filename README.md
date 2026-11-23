@@ -27,5 +27,6 @@ Penghubung antara aksi user dan program. Setiap tombol diberi `addActionListener
 Cara Menjalankan <3
 
 javac Kalkulator.java
+
 java Kalkulator
 
